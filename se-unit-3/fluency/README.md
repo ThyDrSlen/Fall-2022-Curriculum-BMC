@@ -1,8 +1,9 @@
 # High-Order Array Methods Practice
 
 1. Write a function that takes a string and returns the string reversed.
+
 2. Write a function that takes an array of numbers and returns a new array containing only the even numbers in the original array.
-3. Write a function that takes an array of numbers and returns a new array with the original array elements doubled.
+3. Write a function that takes an array  b  of numbers and returns a new array with the original array elements doubled.
 4. Return the first three elements of the array below.
       ```javascript
       const nums = ['a', 'b', 'c', 'd', 'e'];
